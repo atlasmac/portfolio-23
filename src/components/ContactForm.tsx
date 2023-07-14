@@ -8,7 +8,6 @@ function ContactForm() {
           Send me a message
         </h2>
         <form
-          action="/"
           method="POST"
           name="contact"
           data-netlify="true"
